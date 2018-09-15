@@ -16,3 +16,9 @@ text-align: center;
 .hourTitle{
     font-weight:bold;
 }
+img{
+    height: 200px;
+    width: 500px;
+    align-items: center;
+    
+}
